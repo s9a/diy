@@ -1,1 +1,15 @@
+.dew-diy {
+  --dew-shift: filter 0ms;
+  --dew-solar: pink;
+  --dew-lunar: rebeccapurple;
+  --dew-locus: currentColor;
+  --dew-focus: invert(100%);
+  --dew-hover: hue-rotate(0deg);
+  --dew-vapor: opacity(60%);
+}
 
+/**
+*D*
+*I*
+*Y*
+**/
