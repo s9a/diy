@@ -1,6 +1,6 @@
-DIY license
+The DIY license
 
-You may freely develop from this code.
-Code is shared as is WITHOUT WARRANTY.
-BRAND RIGHTS RESERVED.
-DEVELOPING IS YOU.
+* You may freely develop from this code
+* Code is shared as is WITHOUT WARRANTY
+* BRAND RIGHTS RESERVED
+* DEVELOP IN YOURSELF
