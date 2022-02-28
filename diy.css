@@ -1,12 +1,16 @@
 .dew-diy {
   --dew-shift: filter 0ms;
-  --dew-solar: hotpink;
-  --dew-lunar: #201;
+  --dew-solar: mistyrose;
+  --dew-lunar: deeppink;
+  --dew-solar: orchid;
+  --dew-lunar: #111;
   --dew-locus: currentColor;
   --dew-focus: invert(100%);
   --dew-hover: hue-rotate(0deg);
   --dew-vapor: opacity(60%);
 }
+
+
 
 /**
 *D*
